@@ -1,1 +1,1 @@
-dhhddhh
+document.getElementById('ident').value
